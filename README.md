@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragProg                                                          
 - 👀 I’m interested in Making Projects that solve Daily life Problems
-- 🌱 I’m currently learning Android Development with Kotlin
+- 🌱 I’m currently developing Android Projects Using Jetpack Compose
 - 💞️ I’m looking to collaborate on Projects related to Android
 - 📫 How to reach me -- Through email - anuragcollege7@gmail.com
 
