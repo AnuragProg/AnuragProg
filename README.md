@@ -1,10 +1,10 @@
 <img src="https://github.com/AnuragProg/AnuragProg/blob/main/gifs/androidgif.gif" width="425" height="250"/>
 
 # 💫About Me :
-👋 Hi, I’m @AnuragProg
-👀 I’m interested in Making Projects that solve Daily life Problems
-🌱 I’m currently developing Android Projects Using Jetpack Compose
-💞️ I’m looking to collaborate on Projects related to Android
+👋 Hi, I’m @AnuragProg  
+👀 I’m interested in Making Projects that solve Daily life Problems  
+🌱 I’m currently developing Android Projects Using Jetpack Compose  
+💞️ I’m looking to collaborate on Projects related to Android  
 📫 How to reach me -- Through email - anuragcollege7@gmail.com
 
 ## 🌐Socials
