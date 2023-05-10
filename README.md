@@ -20,13 +20,16 @@
 ## Others: 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-# 📊GitHub Stats :
+# 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnuragProg&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragProg&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragProg&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnuragProg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+# Wakatime Stats:
+[![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnuragProg)](https://github.com/AnuragProg)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
