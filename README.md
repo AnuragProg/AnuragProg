@@ -28,7 +28,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnuragProg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-# Wakatime Stats:
+# Coding Stats:
 [![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuragprog)](https://github.com/AnuragProg)
 
 ### ✍️Random Dev Quote
