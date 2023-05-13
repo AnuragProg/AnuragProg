@@ -3,8 +3,8 @@
 # 💫About Me :
 👋 Hi, I’m @AnuragProg  
 👀 I’m interested in Making Projects that solve Daily life Problems  
-🌱 I’m currently developing Android Projects Using Jetpack Compose  
-💞️ I’m looking to collaborate on Projects related to Android  
+🌱 I’m currently developing Backend projects  
+💞️ I’m looking to collaborate on Projects related to Android or Backend
 📫 How to reach me -- Through email - anuragcollege7@gmail.com
 
 ## 🌐Socials
