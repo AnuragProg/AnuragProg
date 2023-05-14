@@ -29,7 +29,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AnuragProg&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 # Coding Stats:
-[![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuragprog)](https://github.com/AnuragProg)
+[![Anurag's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuragprog&layout=compact)](https://github.com/AnuragProg)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
